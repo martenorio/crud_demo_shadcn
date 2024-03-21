@@ -1,4 +1,4 @@
-import { cn } from "@/lib/utils"
+import { cn } from "./../../../lib/utils"
 import { ContainerInfo } from "../components/ContainerInfo"
 import { ContainerLogin } from "../components/ContainerLogin";
 

@@ -1,10 +1,10 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { useTableCustom } from '@/app/core/hooks/UseTable'
+import { useTableCustom } from './../../../app/core/hooks/UseTable'
 import { USERSLIST } from '../utils/DataFakeEmployes';
-import { DataTableBody, DataTableFooter, TableBasicPropTypes, dataTable } from '@/app/core/types/TableCustom';
-import { TableCustom } from '@/app/core/components/TableCustom';
-import { Paginator } from '@/app/core/components/Paginador';
-import { Button } from '@/components/ui/button';
+import { DataTableBody, DataTableFooter, TableBasicPropTypes, dataTable } from './../../../app/core/types/TableCustom';
+import { TableCustom } from './../../../app/core/components/TableCustom';
+import { Paginator } from './../../../app/core/components/Paginador';
+import { Button } from './../../../components/ui/button';
 import { PlusIcon } from '@radix-ui/react-icons';
 import { Link } from 'react-router-dom';
 

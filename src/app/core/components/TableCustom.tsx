@@ -6,7 +6,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ui/table"
+} from "./../../../components/ui/table"
 import { TableBasicPropTypes } from '../types/TableCustom'
 import { ArrowUpIcon, ArrowDownIcon } from '@radix-ui/react-icons'
 import React from "react"
